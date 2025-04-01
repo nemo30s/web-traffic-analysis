@@ -1,6 +1,6 @@
 # Brussels Government Web Traffic Analysis
 
-![Brussels Web Traffic Dashboard](Trafic%20Analysis%20City%20of%20Brussels-1.png)
+![Brussels Web Traffic Dashboard](Trafic%20Analysis%20City%20of%20Brussels%20-%20final_page-0001.jpg)
 
 ## Project Overview
 
